@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 37cfc59e4e9af7d47a0c53652b4f2e42
+timeCreated: 1523477810
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - battleManager: {instanceID: 0}
+  - unitInfoPanel: {instanceID: 0}
+  - unitInfoPanelText: {instanceID: 0}
+  - portraitSprite: {instanceID: 0}
+  - unitInfo: {fileID: 1587824494483004, guid: 7d67350a961ad0c4aaefef55505d6bba, type: 2}
+  executionOrder: 90
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

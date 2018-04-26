@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.4" orientation="orthogonal" renderorder="left-down" width="8" height="8" tilewidth="32" tileheight="32" infinite="0" nextobjectid="1">
+ <properties>
+  <property name="unity:scale" value=".03125"/>
+ </properties>
+ <tileset firstgid="1" source="ObviouslyDifferentSquares.tsx"/>
+ <layer name="Tile Layer 1" width="8" height="8">
+  <data encoding="csv">
+4,1,3,1,2,2,2,1,
+1,1,4,4,3,1,2,3,
+3,4,2,3,4,3,1,4,
+2,3,2,3,2,4,2,1,
+3,4,3,3,1,4,3,4,
+1,4,1,3,3,1,4,2,
+2,1,2,1,2,3,4,3,
+2,3,4,4,2,1,4,2
+</data>
+ </layer>
+</map>
